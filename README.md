@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Tom
-- 💞️ Coding is life.
+👋 Hi, I’m Tom 👋
+💞️ Coding is life.💞️
